@@ -13,6 +13,7 @@
   <a href="https://aurekai-work-samples.pages.dev/">Try the work</a> ·
   <a href="https://docs.aurekai.work/">Explore the guides</a> ·
   <a href="https://github.com/Nickgonzales76017/bonfyre">Bonfÿre source</a> ·
+  <a href="https://nickgonzales76017.github.io/bonfyre/modules/">Browse 48 public source repos</a> ·
   <a href="https://aurekai-work-samples.pages.dev/#ask">Discuss a project</a>
 </p>
 
@@ -34,6 +35,7 @@ I build native software, websites, integrations and practical applications for b
 | Project | Scope |
 |---|---|
 | [Bonfÿre](https://github.com/Nickgonzales76017/bonfyre) | Native C/Zig runtime, typed work/evidence contracts, developer and integration surfaces. The newest source is moving through a separate release review. |
+| [Federated source atlas](https://nickgonzales76017.github.io/bonfyre/modules/) | Search and filter 48 exact pinned public Git repositories, including standalone products, earlier native extractions, Frappe applications and UI donors. References are not installs or proof of current runtime integration. |
 | [Statement Import](https://github.com/Nickgonzales76017/bonfyre-statement-import) | Small offline C parser for normalized bank-statement text, with balance reconciliation and refusal on mismatches. |
 | [Agent Trace Verifier](https://github.com/Nickgonzales76017/bonfyre-agent-trace-verifier) | Standalone deterministic verifier for agent traces and scoped execution evidence. |
 | [Client delivery portfolio](https://github.com/Nickgonzales76017/bonfyre/blob/main/docs/client-operations-portfolio.md) | Concrete integration work across PHP/WordPress, ERPNext/Frappe, SQL, browser workflows and MCP. |
