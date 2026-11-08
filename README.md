@@ -33,6 +33,8 @@ Aurekai has four public areas. They're places for different kinds of work, not f
 
 An independent retailer can also have its own website and customer experience. The [white-label site examples](https://docs.aurekai.work/three-businesses) show what that means for branding, content and access.
 
+The market signals are part of why I'm pursuing this approach. The [U.S. Chamber's 2026 small-business research](https://www.uschamber.com/technology/2026-empowering-small-business-report) found 41% of respondents using at least six technology platforms. [W3Techs' November 2026 survey](https://w3techs.com/technologies/comparison/cm-wordpress) still puts WordPress on 39.4% of measured sites. I want to work with the software and business knowledge people have already built, while developing the new applications they need. I keep a [source-linked research page](https://nickgonzales76017.github.io/bonfyre/market.html) for the other markets Aurekai is entering.
+
 ## Bonfÿre
 
 Bonfÿre is the technical foundation behind those products. It brings together Matrix identity and addressing, Source Library, WorkGraph, native commands, Frappe-based application grammars, local models, media tooling, finance and connected web experiences.
