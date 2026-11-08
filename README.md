@@ -1,71 +1,58 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/7785a8d6-6e28-4892-8958-3daf85414f05" width="104" alt="Bonfÿre knight" />
-</p>
+<p align="center"><img src="https://github.com/user-attachments/assets/7785a8d6-6e28-4892-8958-3daf85414f05" width="104" alt="Bonfÿre knight" /></p>
 
 <h1 align="center">Nick Gonzales</h1>
 
-<p align="center">
-  <strong>Building an AI-era operating company and the native software that powers it.</strong><br>
-  Dallas, Texas · Remote · English / Spanish
-</p>
+<p align="center"><strong>Building Aurekai and Bonfÿre.</strong><br>Digital products · Native software · Operating systems for businesses</p>
 
 <p align="center">
-  <a href="https://aurekai-work-samples.pages.dev/">Try the work</a> ·
-  <a href="https://docs.aurekai.work/">Explore the guides</a> ·
-  <a href="https://github.com/Nickgonzales76017/bonfyre">Bonfÿre source</a> ·
-  <a href="https://nickgonzales76017.github.io/bonfyre/modules/">Browse the source atlas</a> ·
-  <a href="https://aurekai-work-samples.pages.dev/#ask">Discuss a project</a>
+<a href="https://aurekai.work">Work</a> ·
+<a href="https://aurekai.life">Life</a> ·
+<a href="https://aurekai.live">Live</a> ·
+<a href="https://aurekai.shop">Shop</a> ·
+<a href="https://nickgonzales76017.github.io/bonfyre/">Bonfÿre</a> ·
+<a href="https://github.com/Nickgonzales76017/bonfyre">Source</a>
 </p>
 
-I build **Aurekai** and its underlying native engine, **Bonfÿre**.
+## Aurekai
 
-**The problem:** AI can generate code and entire projects faster than traditional
-planning, departmental handoffs and integration processes can absorb them.
-Small teams can also generate software without the specialist knowledge needed
-to operate it safely. More code alone is not progress.
+**Aurekai is a digital operating and investment business built around engineering as capital.** Its shared software, AI infrastructure, product development and distribution connect new businesses and existing digital opportunities.
 
-**The business:** Aurekai is a digital operating and investment model: put
-engineering time, AI computation, software and shared infrastructure to work
-across a portfolio of digital assets and partner projects. Its public network
-helps people discover, create, participate and transact. "Digital private
-equity" describes the *value-creation mechanism*, not an investment fund or an
-ownership claim over independent participants.
-
-**The technology:** Bonfÿre retains source identity, institutional context,
-typed capabilities, executable work, permission boundaries and verification
-evidence so each project can add reusable value instead of becoming another
-isolated implementation.
-
-| Public platform | Focus |
+| Public destination | What it connects |
 |---|---|
-| [Aurekai Work](https://aurekai.work) | Organizations, jobs, operations, business applications and opportunity |
-| [Aurekai Life](https://aurekai.life) | People, communities, publishing, interests and collections |
-| [Aurekai Live](https://aurekai.live) | Creators, channels, media, narration and distribution |
-| [Aurekai Shop](https://aurekai.shop) | Offers, products, sourcing and commerce |
+| [Work](https://aurekai.work) | Organizations, jobs, opportunities, CRM, operations and business applications |
+| [Life](https://aurekai.life) | People, profiles, communities, publishing, interests and collections |
+| [Live](https://aurekai.live) | Creators, channels, media, narration and distribution |
+| [Shop](https://aurekai.shop) | Products, catalogues, sourcing, offers, commerce and spatial planning |
 
-**Delivery model:** goal → existing knowledge and components → bounded
-implementation → independent verification → shared improvement.
-[Read the business, project and technical contract](https://github.com/Nickgonzales76017/bonfyre/blob/main/docs/aurekai-bonfyre-model.md).
+**Why now:** AI makes software much faster to build. Aurekai turns that engineering capacity into applications and businesses that share infrastructure and continuously expand what the whole network can do.
 
-## See it working
+## Bonfÿre
 
-| Explore | What you'll find |
+**Bonfÿre is Aurekai's native institutional software platform.** It provides the underlying systems for identity, data, work, applications, agents, models, finance, commerce, media and public web experiences.
+
+| System | Scope |
 |---|---|
-| [Work samples](https://aurekai-work-samples.pages.dev/) | Browser-based planning, catalogue editing, intake and data tools |
-| [White-label businesses](https://docs.aurekai.work/three-businesses) | Three differently branded shop sites built with a shared site system |
-| [Studio app](https://aurekai-work-samples.pages.dev/training/) | Member sessions and creator program workflows in a fictional studio |
-| [Local document workspace](https://aurekai-work-samples.pages.dev/documents/) | Source-linked search and notes over local documents |
+| Matrix & Source Library | Organizations, subjects, relationships, publications, data and external sources |
+| Native apps | Frappe, ERPNext, CRM, HRMS, Helpdesk, LMS, Wiki, Drive, Insights and account workspaces |
+| WorkGraph & agents | Projects, capability composition, orchestration, native execution and automation |
+| Model Commons | Local inference, compute, quantization, embeddings, speech and model placement |
+| Product & media | Catalogues, spatial design, creator tools, publishing, channels and distribution |
+| Financial operations | Accounting, sourcing, offers, billing, payments and resource allocation |
 
-## Source you can inspect
+The November 7, 2026 native development inventory includes **93 command families, 1,840 Frappe-derived DocTypes, 20,487 WorkGraph nodes and 14 active backend adapters**. Its architecture atlas contains **556 entries** across the native system.
 
-| Project | Scope |
+## Products and source
+
+| Explore | Open |
 |---|---|
-| [Bonfÿre](https://github.com/Nickgonzales76017/bonfyre) | Native C/Zig runtime, typed work/evidence contracts, developer and integration surfaces. The newest source is moving through a separate release review. |
-| [Federated source atlas](https://nickgonzales76017.github.io/bonfyre/modules/) | Search and filter pinned public companion repositories, including standalone products, earlier native extractions, Frappe applications and UI donors. References are not installs or proof of current runtime integration. |
-| [Statement Import](https://github.com/Nickgonzales76017/bonfyre-statement-import) | Small offline C parser for normalized bank-statement text, with balance reconciliation and refusal on mismatches. |
-| [Agent Trace Verifier](https://github.com/Nickgonzales76017/bonfyre-agent-trace-verifier) | Standalone deterministic verifier for agent traces and scoped execution evidence. |
-| [Client delivery portfolio](https://github.com/Nickgonzales76017/bonfyre/blob/main/docs/client-operations-portfolio.md) | Concrete integration work across PHP/WordPress, ERPNext/Frappe, SQL, browser workflows and MCP. |
+| Product and business guide | [Aurekai product families](https://nickgonzales76017.github.io/bonfyre/explore.html) |
+| Native implementation | [Bonfÿre repository](https://github.com/Nickgonzales76017/bonfyre) |
+| Technical systems | [Bonfÿre architecture guide](https://nickgonzales76017.github.io/bonfyre/docs.html) |
+| Applications and interactive studios | [Application gallery](https://nickgonzales76017.github.io/bonfyre/#experiences) |
+| Source donors and independent tools | [Federated source atlas](https://nickgonzales76017.github.io/bonfyre/modules/) |
+| Customer and implementation guides | [Aurekai guides](https://docs.aurekai.work/) |
+| Shared business/technical model | [Aurekai and Bonfÿre](https://github.com/Nickgonzales76017/bonfyre/blob/main/docs/aurekai-bonfyre-model.md) |
 
-I'm interested in reusable libraries **and** finished customer outcomes: a smaller, faster native component is useful; so is the complete approval, import, handoff, or customer-facing app built on top of it.
+I work across low-level native systems, application and service integration, AI infrastructure and complete user-facing products. The goal is an operating company where new software expands a common foundation.
 
-**For collaboration or a scoped project:** [share the problem or workflow](https://aurekai-work-samples.pages.dev/#ask). Public source and commercial work have different licensing and delivery terms.
+[Explore a collaboration or project](https://aurekai-work-samples.pages.dev/#ask).
